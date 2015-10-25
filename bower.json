@@ -1,0 +1,20 @@
+{
+  "name": "pool",
+  "version": "0.0.0",
+  "authors": [
+    "Andy Cook <andrewcook1990@gmail.com>"
+  ],
+  "description": "A game of pool",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "~3.0.8",
+    "system.js": "~0.19.5"
+  }
+}
